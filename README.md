@@ -1,3 +1,5 @@
+## Student enrollment system
+
 Project developed for the final assignment of the database course. The system consists of enrolling students in certain classes. In addition, it allows the insertion of subjects, prerequisites, classes and student grade history. It also allows for searching, altering and deleting data operations.
 
 ### 🛠️ Built with
